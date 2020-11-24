@@ -1,0 +1,6 @@
+name: BRRelog
+version: 1.0-SNAPSHOT
+main: me.winspeednl.brrelog.BRRelog
+authors: [Skyy]
+description: Kick players joining from bedrock
+website: https://skyy.cc/
